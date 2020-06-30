@@ -73,7 +73,7 @@ Las personas ficticias vienen acompañadas de una experiencia de la persona en u
 ### Usuarios intermedios
 
 <p align="center">
-  <img height="450" src="img/personas/Marta Lopez.png">
+  <img height="450" src="img/personas/marta lopez.png">
 </p>
 
 * Experiencia: *Marta y su pareja Andrea salieron a cenar y decidieron entrar en un restaurante. Este restaurante contaba con el software de EntreCartas. Cuando el camarero les trae las tablets para que elijan su pedido, Marta se sorprende gratamente y tiene curiosidad por ver cómo se muestra la carta. Siente que está en un restaurante “moderno” y de calidad.
