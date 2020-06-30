@@ -1,8 +1,10 @@
 # Servit
 
-¡Hola! Bienvenido al repositorio de Servit. Aquí podrás observar la evolución de la implementación del proyecto en sus diferentes versiones. Además, también te explicamos a continuación de forma resumida cómo ha sido el proceso de diseño de Servit.
+¡Hola! Bienvenido al repositorio de Servit. Aquí podrás observar la evolución de la implementación del proyecto en sus diferentes versiones. Actualmente contamos con dos versiones (como puedes ver en las dos carpetas), siendo la versión dos la más actualizada. Dentro de cada versión tienes los correspondientes manuales de instalación y uso.
 
-Trabajo de Fin de Grado. Universidad de Granada.
+A continuación, te explicamos de forma resumida cómo se ha llevado a cabo el diseño del proyecto.
+
+Trabajo de Fin de Grado. Universidad de Granada. Grado en ingeniería informática.
 
 Autor:
 
@@ -140,3 +142,5 @@ El prototipado, que en definitiva es el bocetaje, tanto de la aplicación como d
 
 * Versión 1: (falta poner el link).
 * Versión 2: (falta poner el link).
+
+Dentro de cada carpeta, tenemos sus correspondientes manuales de instalación y uso.
