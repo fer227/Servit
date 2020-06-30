@@ -117,3 +117,26 @@ En la parte de los clientes, la aplicación contará con una sección similar a 
 En la parte de los empleados, tendrán una vista con una lista de mesas que les corresponde atender. Dentro de cada mesa podrán saber si tienen comandas pendientes para llevar o indicar que ya los ha llevado, si han pedido la cuenta o si requieren su atención. Cada empleado puede contar con un dispositivo, obteniendo así el mayor grado de distribución de trabajo posible.
 
 En el caso de que el empleado tenga rol de cocinero, dispondrá de una vista diferente donde aparecerán los productos pendientes de cocinar y podrá indicar cuáles están listos para ser servidos. Esta vista es la misma para todos los cocineros, de forma que con que uno inicie sesión en un dispositivo, todos pueden utilizarlo.
+
+### 3.3 Diseño de la arquitectura
+
+Ahora que ya hemos establecido los dos componentes del proyecto, los relacionamos en el siguiente diagrama en lo que respecta a arquitectura software. La idea es que la web y la aplicación sean productos independientes y que los datos solo residan en una parte, que sería la web, de forma que la aplicación obtiene los datos haciendo peticiones a la web mediante una **API REST**. Cada componente independiente, respetará la arquitectura Modelo-Vista-Controlador.
+
+<p align="center">
+  <img height="300" src="img/arquitectura.jpg">
+</p>
+
+
+
+## 4. Prototipado
+
+Como el proyecto se compone de dos productos independientes (web y aplicación), el proceso de prototipado se llevará a cabo de forma independiente para cada uno. De esta forma también podemos dividir la fase de implementación:
+
+* La versión 1 se corresponderá con la implementación de la web. No se llegará a completar entera, sino que buscamos un mínimo funcional para poder *testearla*.
+* La versión 2 se corresponderá con la implementación de la aplicación. De la misma forma que en la web, se busca llegar al mínimo funcional.
+* La versión 3 sería la versión final, completando las tareas que no se llevaron a cabo en la versión uno y dos. Por falta de tiempo, esta versión no llega a implementarse.
+
+El prototipado, que en definitiva es el bocetaje, tanto de la aplicación como de la web se explican dentro de cada versión (en sus correspondientes *readme*).
+
+* Versión 1: (falta poner el link).
+* Versión 2: (falta poner el link).
