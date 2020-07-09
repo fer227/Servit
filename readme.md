@@ -10,6 +10,10 @@ Autor:
 
 * :bust_in_silhouette: Fernando Izquierdo Romera
 
+Tutora:
+
+* :bust_in_silhouette: Rosana Montes Soldado  <a href="https://github.com/rosanamontes">github.com/rosanamontes</a>
+
 ## ¿Qué pretende Servit?
 
 <p align="center">
@@ -70,7 +74,7 @@ Las personas ficticias vienen acompañadas de una experiencia de la persona en u
 
 * Experiencia: *Carlos posee un restaurante y para mejorarlo decidió contratar el software de Hosteltáctil. Aunque no se maneja muy bien con la tecnología, ha conseguido amoldarse bien a su nuevo software, gracias a los manuales y tutoriales que proporciona la empresa. 
   	Carlos ha sentido una notable mejoría en la organización tanto de los pedidos como de la preparación de los pedidos en cocina por los diferentes módulos que le proporciona Hosteltáctil. También los pedidos se toman más rápido gracias a que cada camarero cuenta con un dispositivo. Otro aspecto que le ha gustado es que cuando llega a casa, puede repasar tranquilamente la actividad que ha habido en el restaurante y como van los ingresos.
-  	Un día mientras Carlos estaba en su casa repasando la caja del día anterior, se le ocurrió una combinación de menú y un nuevo plato que le gustaría incorporar en la carta de su restaurante. Pensó que se podría cambiar desde la web (a él le parecía lógico) pues Hosteltáctil le informó que los datos se guardaban en la nube, pero no encontró ningún apartado para poder modificar la carta. Tuvo que esperar al siguiente día y poder hacerlo en la TPV del restaurante.*
+    	Un día mientras Carlos estaba en su casa repasando la caja del día anterior, se le ocurrió una combinación de menú y un nuevo plato que le gustaría incorporar en la carta de su restaurante. Pensó que se podría cambiar desde la web (a él le parecía lógico) pues Hosteltáctil le informó que los datos se guardaban en la nube, pero no encontró ningún apartado para poder modificar la carta. Tuvo que esperar al siguiente día y poder hacerlo en la TPV del restaurante.*
 
 ### Usuarios intermedios
 
