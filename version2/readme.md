@@ -95,7 +95,7 @@ En el *labelling* se explican todas las vistas especificadas en los *sitemaps*. 
 
 ## Bocetos
 
-A continuación, mostramos algunos de los bocetos que se llevaron a cabo en el diseño de la app (solo enseñamos los más relevantes, en la documentación se encuentran todos). Para ver capturas del resultado final, pincha en el siguiente [link](../capturas resultado final/)
+A continuación, mostramos algunos de los bocetos que se llevaron a cabo en el diseño de la app (solo enseñamos los más relevantes, en la documentación se encuentran todos). Para ver capturas del resultado final, pincha en el siguiente [link](../capturas_resultado_final/)
 
 ### Parte cliente
 
