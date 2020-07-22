@@ -70,7 +70,7 @@ A continuación mostramos algunas capturas de las partes más importantes tanto 
 
 |                          Mi pedido                           |                            Cuenta                            |                          Valoración                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img height="350" src="../img/capturas/app/cliente/mi pedido.png"> | <img height="350" src="../img/capturas/app/cliente/cuenta.png"> | <img height="350" src="../img/capturas/app/cliente/valoracion.png"> |
+| <img height="400" src="../img/capturas/app/cliente/mi pedido.png"> | <img height="400" src="../img/capturas/app/cliente/cuenta.png"> | <img height="400" src="../img/capturas/app/cliente/valoracion.png"> |
 
 
 
@@ -78,7 +78,7 @@ A continuación mostramos algunas capturas de las partes más importantes tanto 
 
 |                       Mesas asignadas                        |                       Tipos de alertas                       |                           Comanda                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img height="350" src="../img/capturas/app/camarero/listado.png"> | <img height="350" src="../img/capturas/app/camarero/alertas.png"> | <img height="350" src="../img/capturas/app/camarero/comanda.png"> |
+| <img height="400" src="../img/capturas/app/camarero/listado.png"> | <img height="400" src="../img/capturas/app/camarero/alertas.png"> | <img height="400" src="../img/capturas/app/camarero/comanda.png"> |
 
 
 
