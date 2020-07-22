@@ -38,7 +38,7 @@ Para cada tarea, especificamos con qué frecuencia se llevarán a cabo para cada
 | Editar datos del perfil        |      L       |      -      |      -       |
 | Gestionar los usuarios         |      -       |      -      |      HH      |
 
-### Tareas para futuras versiones
+### Tareas para futuras versiones (fase 3)
 
 |                                 | Propietarios | Interesados | Superusuario |
 | ------------------------------- | :----------: | :---------: | :----------: |

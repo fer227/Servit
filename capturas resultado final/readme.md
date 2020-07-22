@@ -144,7 +144,7 @@ Como el proyecto se compone de dos productos independientes (web y aplicación),
 
 El prototipado, que en definitiva es el bocetaje, tanto de la aplicación como de la web se explican dentro de cada versión (en sus correspondientes *readme*).
 
-* Versión 1: [version1](./version1/)
-* Versión 2: [version2](./version2/)
+* Versión 1: (falta poner el link).
+* Versión 2: (falta poner el link).
 
 Dentro de cada carpeta, tenemos sus correspondientes manuales de instalación y uso.
