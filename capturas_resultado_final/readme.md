@@ -54,7 +54,7 @@ A continuación mostramos algunas capturas de las partes más importantes tanto 
 
 |                         Restaurantes                         |                        Barra lateral                         |                      Info. Restaurante                       |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img height="350" src="../img/capturas/app/cliente/restaurantes.png"> | <img height="350" src="../img/capturas/app/cliente/barra lateral.png"> | <img height="350" src="../img/capturas/app/cliente/info restaurante.png"> |
+| <img height="400" src="../img/capturas/app/cliente/restaurantes.png"> | <img height="400" src="../img/capturas/app/cliente/barra lateral.png"> | <img height="400" src="../img/capturas/app/cliente/info restaurante.png"> |
 
 
 
