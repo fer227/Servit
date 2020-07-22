@@ -54,7 +54,7 @@ A continuación mostramos algunas capturas de las partes más importantes tanto 
 
 |                         Restaurantes                         |                        Barra lateral                         |                      Info. Restaurante                       |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img height="400" src="../img/capturas/app/cliente/restaurantes.png"> | <img height="400" src="../img/capturas/app/cliente/barra lateral.png"> | <img height="400" src="../img/capturas/app/cliente/info restaurante.png"> |
+| <img height="500" src="../img/capturas/app/cliente/restaurantes.png"> | <img height="500" src="../img/capturas/app/cliente/barra lateral.png"> | <img height="400" src="../img/capturas/app/cliente/info restaurante.png"> |
 
 
 
@@ -62,7 +62,7 @@ A continuación mostramos algunas capturas de las partes más importantes tanto 
 
 |                          Categorías                          |                          Productos                           |                     Cantidad y alérgenos                     |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img height="350" src="../img/capturas/app/cliente/categorias.png"> | <img height="350" src="../img/capturas/app/cliente/productos.png"> | <img height="350" src="../img/capturas/app/cliente/info producto.png"> |
+| <img height="400" src="../img/capturas/app/cliente/categorias.png"> | <img height="400" src="../img/capturas/app/cliente/productos.png"> | <img height="400" src="../img/capturas/app/cliente/info producto.png"> |
 
 
 
