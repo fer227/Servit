@@ -135,19 +135,19 @@ use yii\helpers\Html;
                         <td class="center-align"><?php echo $value2['propinas']; ?> €</td>
 
                         <?php if($value2['experiencia'] >= 3): ?>
-                            <td class="center-align green-text text-darken-1"><?php echo $value2['experiencia']; ?>%</td>
+                            <td class="center-align green-text text-darken-1"><?php echo $value2['experiencia']; ?></td>
                         <?php elseif($value2['experiencia'] <= 2): ?>
-                            <td class="center-align red-text text-darken-1"><?php echo $value2['experiencia']; ?>%</td>
+                            <td class="center-align red-text text-darken-1"><?php echo $value2['experiencia']; ?></td>
                         <?php else: ?>
-                            <td class="center-align"><?php echo $value2['experiencia']; ?>%</td>
+                            <td class="center-align"><?php echo $value2['experiencia']; ?></td>
                         <?php endif; ?>
 
                         <?php if($value2['ambiente'] >= 3): ?>
-                            <td class="center-align green-text text-darken-1"><?php echo $value2['ambiente']; ?>%</td>
+                            <td class="center-align green-text text-darken-1"><?php echo $value2['ambiente']; ?></td>
                         <?php elseif($value2['ambiente'] <= 2): ?>
-                            <td class="center-align red-text text-darken-1"><?php echo $value2['ambiente']; ?>%</td>
+                            <td class="center-align red-text text-darken-1"><?php echo $value2['ambiente']; ?></td>
                         <?php else: ?>
-                            <td class="center-align"><?php echo $value2['ambiente']; ?>%</td>
+                            <td class="center-align"><?php echo $value2['ambiente']; ?></td>
                         <?php endif; ?>
 
                         <td class="center-align">0</td>
