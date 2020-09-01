@@ -1,0 +1,34 @@
+{
+  "name": "Servit",
+  "short_name": "Servit",
+  "icons": [{
+    "src": "/servitApp/web/images/icon_elevate/icon_elevate-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  },{
+    "src": "/servitApp/web/images/icon_elevate/icon_elevate-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  },{
+    "src": "/servitApp/web/images/icon_elevate/icon_elevate-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  },{
+    "src": "/servitApp/web/images/icon_elevate/icon_elevate-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  },{
+    "src": "/servitApp/web/images/icon_elevate/icon_elevate-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },{
+      "src": "/servitApp/web/images/icon_elevate/icon_elevate-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "start_url": "/servitApp/web/index.php",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#b61827"
+}
