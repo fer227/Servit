@@ -14,6 +14,11 @@ Tutora:
 
 * :bust_in_silhouette: Rosana Montes Soldado  <a href="https://github.com/rosanamontes">github.com/rosanamontes</a>
 
+Logo:
+* Designed by [diegogaraur](https://github.com/diegogaraur) and me.
+* Implemented by [diegogaraur](https://github.com/diegogaraur).
+
+
 ## ¿Qué pretende Servit?
 
 <p align="center">
